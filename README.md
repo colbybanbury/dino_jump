@@ -1,6 +1,6 @@
 # Dino Jump
 
-
+![](Dino_Jump.gif)
 
 ## Getting setup
 
